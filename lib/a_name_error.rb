@@ -1,6 +1,3 @@
- def hello world
-   
-   name = hello_world
- end
+ name = hello world
  
- puts hello world
+ puts hello_world
