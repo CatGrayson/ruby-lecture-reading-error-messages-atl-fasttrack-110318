@@ -2,4 +2,4 @@
 
 42 / 0
 
-puts 
+puts "Divide by zero exception"
