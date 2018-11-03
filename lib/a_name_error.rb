@@ -1,3 +1,5 @@
- name = "hello world"
+ def "hello world"
+ 
+ end
  
  puts hello_world
