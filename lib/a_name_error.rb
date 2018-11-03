@@ -3,4 +3,4 @@
    name = hello_world
  end
  
- hello world
+ puts hello world
