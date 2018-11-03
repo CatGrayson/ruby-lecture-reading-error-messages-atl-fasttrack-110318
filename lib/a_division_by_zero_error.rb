@@ -1,5 +1,4 @@
 42 / 6
 
-42 / 0
+42 / 101
 
-puts "Divide by zero exception"
